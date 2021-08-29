@@ -1,5 +1,5 @@
 """Numeric Operators Exercise."""
-_author_ = str(730407263)
+__author__ = "730407263"
 
 num1: int = int(input("Left-hand side: "))
 num2: int = int(input("Right-hand side: "))

@@ -1,5 +1,5 @@
 """Hype Machine Exercise."""
-_author_ = str(730407263)
+__author__ = "730407263"
 
 name: str = input("What is your name? ")
 print("You entered: ")
